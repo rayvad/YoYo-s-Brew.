@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FDF8F5;
+  --color-mocha: #4E342E;
+  --color-caramel: #A1887F;
+  --color-latte: #D7CCC8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
